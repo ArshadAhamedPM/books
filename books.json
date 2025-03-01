@@ -31,7 +31,17 @@
   },
   {
     "id":7,
-    "title": "Awamil",
+    "title": "Muhtharath",
     "pdfLink": "https://drive.google.com/file/d/1i36kSmiOVCb_6_J-jXmIiBoLpPTwTXMY/view"
+  },
+   {
+    "id":8,
+    "title": "Minhaj By Imam Nawawi",
+    "pdfLink": "https://drive.google.com/file/d/1btZe-NYedv3TEhOKCqtoTBX8Db-BAYgn/view"
+  },
+   {
+    "id":10,
+    "title": "Mahalli",
+    "pdfLink": "https://drive.google.com/file/d/1btQEjiXo3EP4QSr45g0JOqZuzWBYB0B_/view"
   }
 ]
