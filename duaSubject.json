@@ -20,7 +20,42 @@
   "name":"Sharah al wiqaya",
   "icon":""
 }, {
-  "name":"Taqweemul Lisan",
+  "name":"Abu Dawood",
+  "icon":""
+}, {
+  "name":"Tafseer al manaar",
+  "icon":""
+}, {
+  "name":"Nafayis",
+  "icon":""
+}, {
+  "name":"Zanjaani",
+  "icon":""
+}, {
+  "name":"Ilmul aflaak",
+  "icon":""
+},
+   {
+  "name":"Sharah tahdeeb",
+  "icon":""
+} ,{
+  "name":"Tafseer al waseet",
+  "icon":""
+}, {
+  "name":"Fiqh ul muqaarin",
+  "icon":""
+}, {
+  "name":"Maraah al arvaah",
+  "icon":""
+}, {
+  "name":"Ajnas",
+  "icon":""
+}, {
+  "name":"Qirathul waliha",
+  "icon":""
+}, {
+  "name":"Uloom Ul Quran",
   "icon":""
 }
+  
 ]
