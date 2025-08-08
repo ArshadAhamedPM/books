@@ -1,5 +1,4 @@
-[
-  {
+[ {
   "name":"Alfiya",
   "icon":""
 },
@@ -56,6 +55,496 @@
 }, {
   "name":"Uloom Ul Quran",
   "icon":""
-}
-  
+},{
+    "name": "rasidiya",
+    "icon": ""
+  },
+  {
+    "name": "hidaaya",
+    "icon": ""
+  },
+  {
+    "name": "Safwatut tafaaseer",
+    "icon": ""
+  },
+  {
+    "name": "Sad al araf",
+    "icon": ""
+  },
+  {
+    "name": "Ajnas2",
+    "icon": ""
+  },
+  {
+    "name": "Meezan2",
+    "icon": ""
+  },
+  {
+    "name": "awamil",
+    "icon": ""
+  },
+  {
+    "name": "Alfiya2",
+    "icon": ""
+  },
+  {
+    "name": "Bukhari",
+    "icon": ""
+  },
+  {
+    "name": "Mahalli",
+    "icon": ""
+  },
+  {
+    "name": "Alwazeej",
+    "icon": ""
+  },
+  {
+    "name": "Muslim",
+    "icon": ""
+  },
+  {
+    "name": "Sharah al wiqaya",
+    "icon": ""
+  },
+  {
+    "name": "Muhtharath",
+    "icon": ""
+  },
+  {
+    "name": "Fathul mueen",
+    "icon": ""
+  },
+  {
+    "name": "Sad al araf2",
+    "icon": ""
+  },
+  {
+    "name": "Alfiya3",
+    "icon": ""
+  },
+  {
+    "name": "Meezan3",
+    "icon": ""
+  },
+  {
+    "name": "Sarhul vikaya",
+    "icon": ""
+  },
+  {
+    "name": "Taseer kurthubi",
+    "icon": ""
+  },
+  {
+    "name": "Tuhfa al qardiya",
+    "icon": ""
+  },
+  {
+    "name": "Uloom ul quran2",
+    "icon": ""
+  },
+  {
+    "name": "Sharah miat aamil",
+    "icon": ""
+  },
+  {
+    "name": "Muhthasir al maani",
+    "icon": ""
+  },
+  {
+    "name": "Qirathulwaliha2",
+    "icon": ""
+  },
+  {
+    "name": "Tahreer va tanveer",
+    "icon": ""
+  },
+  {
+    "name": "Ajnas3",
+    "icon": ""
+  },
+  {
+    "name": "Maqad us shariah",
+    "icon": ""
+  },
+  {
+    "name": "Nafayis2",
+    "icon": ""
+  },
+  {
+    "name": "Abi suja",
+    "icon": ""
+  },
+  {
+    "name": "Zanjaani 23/24",
+    "icon": ""
+  },
+  {
+    "name": "Manhaj 23/24",
+    "icon": ""
+  },
+  {
+    "name": "Qudoori",
+    "icon": ""
+  },
+  {
+    "name": "Manhaj 22",
+    "icon": ""
+  },
+  {
+    "name": "Zanjani2",
+    "icon": ""
+  },
+  {
+    "name": "Qiratul valiha3",
+    "icon": ""
+  },
+  {
+    "name": "Muhtasar maani3",
+    "icon": ""
+  },
+  {
+    "name": "Duroos taareek",
+    "icon": ""
+  },
+  {
+    "name": "Manaajil us saalik",
+    "icon": ""
+  },
+  {
+    "name": "Taqveemul lisaan2",
+    "icon": ""
+  },
+  {
+    "name": "Abu dawood",
+    "icon": ""
+  },
+  {
+    "name": "4th yr muhtarat",
+    "icon": ""
+  },
+  {
+    "name": "Balagah",
+    "icon": ""
+  },
+  {
+    "name": "Insha",
+    "icon": ""
+  },
+  {
+    "name": "Nasaayi2",
+    "icon": ""
+  },
+  {
+    "name": "Manthiq",
+    "icon": ""
+  },
+  {
+    "name": "Ibnu maja",
+    "icon": ""
+  },
+  {
+    "name": "Aaimalul quloob",
+    "icon": ""
+  },
+  {
+    "name": "Duroos ul taarik2",
+    "icon": ""
+  },
+  {
+    "name": "usool us shshi",
+    "icon": ""
+  },
+  {
+    "name": "al waraqah",
+    "icon": ""
+  },
+  {
+    "name": "qawaid ul fiqh",
+    "icon": ""
+  },
+  {
+    "name": "meezan2",
+    "icon": ""
+  },
+  {
+    "name": "sad al arf",
+    "icon": ""
+  },
+  {
+    "name": "muslim",
+    "icon": ""
+  },
+  {
+    "name": "muallim inshaa",
+    "icon": ""
+  },
+  {
+    "name": "muallim ul inshaa 3rd yr",
+    "icon": ""
+  },
+  {
+    "name": "nafaayis",
+    "icon": ""
+  },
+  {
+    "name": "bukhari",
+    "icon": ""
+  },
+  {
+    "name": "fathul mueen",
+    "icon": ""
+  },
+  {
+    "name": "awaamil",
+    "icon": ""
+  },
+  {
+    "name": "meezan3",
+    "icon": ""
+  },
+  {
+    "name": "bailaavi",
+    "icon": ""
+  },
+  {
+    "name": "uloom ul quarn2",
+    "icon": ""
+  },
+  {
+    "name": "tuhfa",
+    "icon": ""
+  },
+  {
+    "name": "jamul javami",
+    "icon": ""
+  },
+  {
+    "name": "ibnu maaja",
+    "icon": ""
+  },
+  {
+    "name": "fiqh al muqaarin",
+    "icon": ""
+  },
+  {
+    "name": "manthiq2",
+    "icon": ""
+  },
+  {
+    "name": "nasaayi",
+    "icon": ""
+  },
+  {
+    "name": "muhtaraath",
+    "icon": ""
+  },
+  {
+    "name": "qiratur rashida 2nd yr",
+    "icon": ""
+  },
+  {
+    "name": "qiratur rashida 3rd yr",
+    "icon": ""
+  },
+  {
+    "name": "abi suja",
+    "icon": ""
+  },
+  {
+    "name": "sarah al vikaya",
+    "icon": ""
+  },
+  {
+    "name": "rakeeza 22",
+    "icon": ""
+  },
+  {
+    "name": "qatrun nada",
+    "icon": ""
+  },
+  {
+    "name": "qasasun nabi",
+    "icon": ""
+  },
+  {
+    "name": "safwatut tafaaseer",
+    "icon": ""
+  },
+  {
+    "name": "sad al araf",
+    "icon": ""
+  },
+  {
+    "name": "uloom al quraan",
+    "icon": ""
+  },
+  {
+    "name": "bukhari nazir ustad",
+    "icon": ""
+  },
+  {
+    "name": "kitab as sarf",
+    "icon": ""
+  },
+  {
+    "name": "thuhfa wardiya",
+    "icon": ""
+  },
+  {
+    "name": "al wajeez",
+    "icon": ""
+  },
+  {
+    "name": "usool al hadees",
+    "icon": ""
+  },
+  {
+    "name": "umda tui salik",
+    "icon": ""
+  },
+  {
+    "name": "aajroomiya",
+    "icon": ""
+  },
+  {
+    "name": "muhtaarat 5th yr",
+    "icon": ""
+  },
+  {
+    "name": "alfiya",
+    "icon": ""
+  },
+  {
+    "name": "noorul eelaah",
+    "icon": ""
+  },
+  {
+    "name": "usool al fiqh",
+    "icon": ""
+  },
+  {
+    "name": "sunan adu dawood",
+    "icon": ""
+  },
+  {
+    "name": "jarah tadeel",
+    "icon": ""
+  },
+  {
+    "name": "nasayi ibnumaja",
+    "icon": ""
+  },
+  {
+    "name": "balaaga",
+    "icon": ""
+  },
+  {
+    "name": "aqeeda tu avaamil",
+    "icon": ""
+  },
+  {
+    "name": "tarbiya",
+    "icon": ""
+  },
+  {
+    "name": "ilm al faraayil",
+    "icon": ""
+  },
+  {
+    "name": "qirat al waliha",
+    "icon": ""
+  },
+  {
+    "name": "rakeeza",
+    "icon": ""
+  },
+  {
+    "name": "aisar at tafaasir",
+    "icon": ""
+  },
+  {
+    "name": "uloomul quraan 21",
+    "icon": ""
+  },
+  {
+    "name": "avaamil",
+    "icon": ""
+  },
+  {
+    "name": "hilyat tu taalib",
+    "icon": ""
+  },
+  {
+    "name": "bukhari 21",
+    "icon": ""
+  },
+  {
+    "name": "tafseer jalaalain",
+    "icon": ""
+  },
+  {
+    "name": "usoolul fiqh",
+    "icon": ""
+  },
+  {
+    "name": "tafseer",
+    "icon": ""
+  },
+  {
+    "name": "mantiq",
+    "icon": ""
+  },
+  {
+    "name": "qawayid al arabiya",
+    "icon": ""
+  },
+  {
+    "name": "usoolul hadees",
+    "icon": ""
+  },
+  {
+    "name": "tirmidi",
+    "icon": ""
+  },
+  {
+    "name": "nahvu t tatbiqi",
+    "icon": ""
+  },
+  {
+    "name": "tadreebun nahvu",
+    "icon": ""
+  },
+  {
+    "name": "ilmus sarf 20",
+    "icon": ""
+  },
+  {
+    "name": "durarul baihaki",
+    "icon": ""
+  },
+  {
+    "name": "uloomul quraan 20",
+    "icon": ""
+  },
+  {
+    "name": "sarf at tatbiqi",
+    "icon": ""
+  },
+  {
+    "name": "usoolus sunnah",
+    "icon": ""
+  },
+  {
+    "name": "hidayatun nahvu",
+    "icon": ""
+  },
+  {
+    "name": "iraabul kuraan",
+    "icon": ""
+  },
+  {
+    "name": "tahleelul qawaayid",
+    "icon": ""
+  }
 ]
